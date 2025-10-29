@@ -1,7 +1,5 @@
 # Root.io AI Engineer - Home Assignment
 
-**Time Limit: 3 hours maximum**
-
 ## Overview
 
 This assignment evaluates your ability to build and assess AI agents that can analyze code, understand vulnerabilities, and apply fixes autonomously.
@@ -64,17 +62,6 @@ python agent.py
 pytest test_file_reader.py -v  # All tests should now PASS
 ```
 
-## Success Criteria
-
-**Before your agent runs:**
-- ❌ test_path_traversal_blocked FAILS
-- ❌ test_absolute_path_blocked FAILS
-
-**After your agent runs:**
-- ✅ test_path_traversal_blocked PASSES
-- ✅ test_absolute_path_blocked PASSES
-- ✅ test_safe_extraction PASSES
-- ✅ test_nonexistent_file PASSES
 
 ## Deliverables
 
@@ -114,8 +101,7 @@ Add any libraries your agent needs (APIs, LLM clients, web scraping, etc.)
 - ✅ **Agent must be autonomous**: Don't hardcode the fix - the agent should analyze and determine it
 - ✅ **Any Python libraries**: Use whatever you need
 - ✅ **Partial submissions OK**: If you run out of time, submit what you have
-- ⏱️ **Time limit**: Maximum 3 hours (we respect your time!)
+- ⏱️ **Time limit**: Up to 3 hours
 - 🚫 **Don't modify tests**: Fix the vulnerable code, not the test file
-
 
 Good luck! 🚀
