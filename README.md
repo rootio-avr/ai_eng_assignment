@@ -1,4 +1,4 @@
-# AI Agent Engineer - Home Assignment
+# Root.io AI Engineer - Home Assignment
 
 **Time Limit: 3 hours maximum**
 
